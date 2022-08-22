@@ -6,7 +6,7 @@ description: NFT Builder made exclusively for Metarena owners
 
 ![](../../.gitbook/assets/Forge\_Overview.png)
 
-Tier One Metarena upgrade that enables custom no-code drag-n-drop builder allowing anyone to design and mint their own NFTs directly from the Metarena.
+Tier One Metarena upgrade enables custom no-code drag-n-drop builder, allowing anyone to design and mint their NFTs directly from the Metarena.
 
 Metarena owners share in the revenue from all NFT minted from their Forge. Metapass Carbon owners have access to additional Forge features and mint discounts.
 
