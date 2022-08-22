@@ -13,7 +13,7 @@
 * [Experiences](metaverse/experiences/README.md)
   * [Forge](metaverse/experiences/forge.md)
   * [Fantasy Esports](metaverse/experiences/fantasy-esports.md)
-  * [Esports Sim](metaverse/experiences/esports-sim.md)
+  * [Simulated Leagues](metaverse/experiences/simulated-leagues.md)
   * [Skill-Based](metaverse/experiences/skill-based.md)
   * [Virtual Events](metaverse/experiences/virtual-events.md)
 * [OneDAO](metaverse/onedao.md)
