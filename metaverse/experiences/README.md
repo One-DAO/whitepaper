@@ -24,8 +24,8 @@ Integrations work similarly to experiences, with the difference being they are g
 [skill-based.md](skill-based.md)
 {% endcontent-ref %}
 
-{% content-ref url="simulated-leagues.md" %}
-[simulated-leagues.md](simulated-leagues.md)
+{% content-ref url="esports-sim.md" %}
+[esports-sim.md](esports-sim.md)
 {% endcontent-ref %}
 
 {% content-ref url="virtual-events.md" %}
