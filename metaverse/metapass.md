@@ -72,6 +72,10 @@ Most exclusive edition with more access to airdrops, presale raffles, and covete
 
 **Benefits**
 
-* Standard is the base level access to the Metarena Metaverse. It is how you participate in arenas, compete in contests and experience everything we have to offer.
+* Standard is the base level access to the Metarena Metaverse.
+* Custom Discord Role
+* Early NFT Drop Access
+
+****
 {% endtab %}
 {% endtabs %}
