@@ -23,7 +23,7 @@
 
 * [Tokenomics](economy/tokenomics/README.md)
   * [ARNA](economy/tokenomics/esport.md)
-  * [District Token](economy/tokenomics/byte.md)
+  * [District Tokens](economy/tokenomics/byte.md)
 * [Distribution](economy/distribution.md)
 * [Monetization](economy/monetization.md)
 * [Growth](economy/growth.md)
