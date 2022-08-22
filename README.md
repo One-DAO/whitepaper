@@ -2,7 +2,7 @@
 
 ![Building the metaverse for esports and gaming, the right way.](<.gitbook/assets/Intro Slide>)
 
-Esports One is building the future of the esports & gaming metaverse. By taking the concepts of community, competition, and fandom to the next level, we've create a unique virtual world with [digital arenas](metaverse/metarenas.md), fully powered by our own utility tokens and mutable NFTs.
+Esports One is building the future of the esports & gaming metaverse. By taking the concepts of community, competition, and fandom to the next level, we've create a unique virtual world with [digital arenas](metaverse/metarena.md), fully powered by our own utility tokens and mutable NFTs.
 
 Arenas are owned by creators, brands, esports teams, and you, the community. You'll be able to host a variety of virtual events and [experiences](metaverse/experiences/), from [fantasy esports](metaverse/experiences/fantasy-esports.md) to [skill-based wagering](metaverse/experiences/skill-based.md) to the first [esports sim leagues](metaverse/experiences/esports-sim.md), all the while rewarding engagement with our own tokens. Users will leverage their knowledge of web 2 and web 3 games to collect a wide spectrum of NFTs, each with unique rarity and utility.
 

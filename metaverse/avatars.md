@@ -1,6 +1,6 @@
 # Avatars
 
-![](<../.gitbook/assets/Metarena Map (1).png>)
+![](broken-reference)
 
 We’re living in the future of the metaverse where everyone has their own digital identity. This future feature release will allow you to create a custom virtual avatar to represent yourself in the esports metaverse. Completely customizable with the ability to transform over time.
 

@@ -9,7 +9,7 @@
 ## 🎮 Metaverse
 
 * [Metapass](metaverse/metapass.md)
-* [Metarenas](metaverse/metarenas.md)
+* [Metarena](metaverse/metarena.md)
 * [Experiences](metaverse/experiences/README.md)
   * [Forge](metaverse/experiences/forge.md)
   * [Fantasy Esports](metaverse/experiences/fantasy-esports.md)
