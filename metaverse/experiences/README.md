@@ -28,6 +28,6 @@ Integrations work similarly to experiences, with the difference being they are g
 [esports-sim.md](esports-sim.md)
 {% endcontent-ref %}
 
-{% content-ref url="online-events.md" %}
-[online-events.md](online-events.md)
+{% content-ref url="virtual-events.md" %}
+[virtual-events.md](virtual-events.md)
 {% endcontent-ref %}

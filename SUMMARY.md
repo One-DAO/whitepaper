@@ -15,14 +15,14 @@
   * [Fantasy Esports](metaverse/experiences/fantasy-esports.md)
   * [Simulated Leagues](metaverse/experiences/esports-sim.md)
   * [Skill-Based](metaverse/experiences/skill-based.md)
-  * [Online Events](metaverse/experiences/online-events.md)
+  * [Online Events](metaverse/experiences/virtual-events.md)
 * [OneDAO](metaverse/onedao.md)
 * [Avatars](metaverse/avatars.md)
 
 ## 💰 Economy
 
 * [Tokenomics](economy/tokenomics/README.md)
-  * [Primary Token](economy/tokenomics/esport.md)
+  * [ARNA](economy/tokenomics/esport.md)
   * [District Token](economy/tokenomics/byte.md)
 * [Distribution](economy/distribution.md)
 * [Monetization](economy/monetization.md)
