@@ -10,15 +10,15 @@ Represents standalone utility NFTs that allow holders to earn rewards, unlock ac
 
 As a Metapass owner, you will receive exclusive benefits and perks, from arena giveaways, NFT presales, elevated Discord status, digital and in-person events, staking rewards, airdrops (tokens, player cards, partner collabs), and much more.&#x20;
 
-Additionally, your Metapass grants access to the governance and community-run DAO. OneDAO receives a weekly allocation of tokens used to reward members for actively participating in the ecosystem’s growth.
+Additionally, your Metapass grants access to the governance and community-run DAO. OneDAO receives a weekly allocation of tokens to reward members for actively participating in the ecosystem’s growth.
 
 ### Editions
 
-There will be three editions during Season One; Carbon, Gold, and Standard. One wallet can hold all three passes but benefits only accrue to the highest level of the pass that a wallet holds. For example, if you hold Carbon and Silver, you would receive the benefits from Carbon.
+There are three editions released; Carbon, Gold, and Standard. One wallet can hold all three passes but benefits only accrue to the Metapass level. For example, if you own Carbon and Gold, you would receive the benefits from Carbon.
 
 * Discord Role: Exclusive access to the OneDAO community run by full-time metaverse & esports enthusiasts, NFT traders and investors, and crypto influencers.
   * Our Discord will be providing: daily updates on the latest NFT drops, metaverse news, strategy write-ups, IRL meets, and more.
-* 10% of all sales are distributed to the community fund that is used to benefit Metapass Carbon & Gold holders
+* Earn regular token distributions from marketplace sales
 
 ![](../.gitbook/assets/metapass\_all.png)
 
@@ -39,8 +39,8 @@ There will be three editions during Season One; Carbon, Gold, and Standard. One 
 Most exclusive edition with more access to airdrops, presale raffles, and coveted early access to Arenas
 
 * All the benefits of Gold + Standard
-* $ESPORT & $BYTE allocations
-* 500 arena whitelist spots & early access to mint
+* $ARNA & $BYTE allocations
+* Arena whitelist spots & early access to mint
 * Private members channels
 * Merch drops
 * IRL meetups
@@ -55,9 +55,9 @@ Most exclusive edition with more access to airdrops, presale raffles, and covete
 
 **Release:** Feb 3rd - Feb 7th
 
-**Benefits:** Allocation of $BYTEs, access to airdrop, ability to participate in Arenas
+**Benefits:** Secondary token allocations, airdrops, DAO and Metarena access.
 
-* Minimum of 50 arena whitelist spots
+* Arena pre-sale spots
 {% endtab %}
 
 {% tab title="Standard" %}
@@ -70,6 +70,6 @@ Most exclusive edition with more access to airdrops, presale raffles, and covete
 **Release:** Two Weeks
 
 **Price:** Free + Gas\
-Standard is your access to the esports metaverse. It is how you participate in arenas, compete in contests and experience everything we have to offer.
+Standard is the base level access to the Metarena Metaverse. It is how you participate in arenas, compete in contests and experience everything we have to offer.
 {% endtab %}
 {% endtabs %}
