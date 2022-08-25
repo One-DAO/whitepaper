@@ -64,10 +64,6 @@ Carbon & Gold pass 都是免费铸造的（数量有限），Standard pass也是
 * Metapass Gold：3000个
 * Metapass Standard：无限量（但是领取周期只有两周）
 
-#### **Metapass如何领取呢？**
-
-https://meta.esportsone.com/
-
 #### **我可以出售自己的Metapass么？**
 
 当然可以。但是一旦出售了Metapass，相关的权益会立即被取消，包括OneDAO成员以及竞技场Arena的预售资格。
