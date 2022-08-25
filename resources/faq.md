@@ -169,7 +169,7 @@ In addition to [ERC-20](https://ethereum.org/en/developers/docs/standards/tokens
 
 ### **ERC-20**
 
-**$ESPORTS & $BYTE**
+**$ARNA & $BYTE**
 
 The token standard is used for creating and issuing smart contracts on the Ethereum blockchain. Smart contracts can then be used to create a smart property or tokenized assets that people can invest in. ERC stands for "Ethereum request for comment," and the ERC20 standard was implemented in 2015.
 
@@ -177,7 +177,7 @@ They are used across the ecosystem by owners, managers, brands, and organization
 
 ### **ERC-721**
 
-#### **ASSETS**
+#### **METARENA/ASSETS**
 
 An open standard that describes how to build non-fungible or unique tokens on the Ethereum blockchain. While most tokens are fungible (every token is the same as every other token), ERC-721 tokens are all unique. Think of them like rare, one-of-a-kind collectibles. Ensures verifiable scarcity that allows token ownership to be tracked at the individual layer. Each asset has a UUID (Unique Identifier) and optional metadata.
 
@@ -185,7 +185,7 @@ Player cards and user avatars are considered to be assets.
 
 ### ERC-1155
 
-#### **ARENAS**
+#### **METAPASS/ASSETS**
 
 The first token standard that allows users to mint fungible (identical) and non-fungible (unique) assets in a single, smart contract—enabling the creation of every type of asset, from digital currency to tokenized real estate up to gaming items and digital art.
 
