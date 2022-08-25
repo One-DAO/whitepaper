@@ -203,9 +203,9 @@ ERC-1155 is the perfect protocol since it allows arenas to evolve, expand, and a
 
 <details>
 
-<summary>What are $ESPORT tokens?</summary>
+<summary>What are $ARNA tokens?</summary>
 
-The $ESPORT token is our primary utility token and will be publicly available on third-party exchanges and directly from our website. Everything within the ecosystem is backed by $ESPORT and used to incentivize staking, whether in the form of arenas or $ESPORT tokens itself.
+The $ARNA token is our primary utility token and will be publicly available on third-party exchanges and directly from our website. Everything within the ecosystem is backed by $ARNA and used to incentivize staking, whether in the form of arenas or $ARNA tokens itself.
 
 </details>
 

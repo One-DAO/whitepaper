@@ -20,7 +20,7 @@ Our CV models are developed using Python, and then once we meet a specific accur
 
 Because of how we use GraphQL to insulate consumers of data from our DB schema, we take an iterative approach to building the stats interface for a game by continuously expanding it with new stats values as they become available.
 
-![](<../.gitbook/assets/Game Onboarding.png>)
+![](<../.gitbook/assets/New Stats Onboarding.png>)
 
 ### Stats Tiers
 
