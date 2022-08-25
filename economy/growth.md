@@ -16,8 +16,8 @@ By establishing a partner program, we incentivize partners to take an active par
 
 ### Digital & In-Person Events
 
-In addition to virtual gatherings and town halls, we'll run regular activations at major web3, esports and gaming events & conferences.
+In addition to virtual gatherings and town halls, we'll run regular activations at major web3, esports, and gaming events & conferences.
 
-### Ambassadors Guild
+### Marketing Guild
 
 Our largest and most prominent OneDAO guild that will focus on education, onboarding and partnership building.

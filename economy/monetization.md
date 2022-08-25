@@ -4,13 +4,15 @@
 
 ![](<../.gitbook/assets/Revenue Flow.png>)
 
-The $ARNA token will provide immediate liquidity to players, creators, and investors, with the value ultimately being derived by the experiences built within our metaverse. Our focus on creating new business models in esports and gaming will set us apart from other platforms. We believe that fantasy is just the first layer of the esports metaverse.
+The $ESPORT token will provide immediate liquidity to players, creators, and investors, with the value ultimately being derived by the experiences built within our metaverse. Our focus on creating new business models in esports and gaming will set us apart from other platforms. We believe that fantasy is just the first layer of the esports metaverse.
 
 <details>
 
-<summary>Metarena Sales</summary>
+<summary>ARENA Sales</summary>
 
-_50% locked up for six months, then allocated to the Arena Pool_
+_50% locked-up for 6 months, then allocated to the Arena Pool_
+
+Includes both ARENA Keys & ARENA Sales. Purchases inside and out of our marketplace.&#x20;
 
 </details>
 
@@ -58,7 +60,7 @@ Multiple subscription models that include access to premium features.
 
 * Stats Dashboards
 * Enhanced Player Hubs
-* Discord Premium
+* OneBot Premium
 
 </details>
 
@@ -71,7 +73,7 @@ _50% to Partner Pool_
 
 We will engage select brands to enable players with additional forms of engagement and opportunities for future monetization. These brands will have the chance to host their own contests, sponsor and even purchase outright their own ARENAS.
 
-* Rewards would include promotional assets, $ARNA tokens, and potentially their own individual token.
+* Rewards would include promotional assets, $ESPORT tokens, and potentially their own individual token.
 * Distribution would occur via fantasy participation, airdropped, battle passes or via our mission system.
 
 </details>
@@ -89,6 +91,6 @@ We've defined a core set of KPIs (Key Performance Indicators) that will play a s
 * Active NFT assets in circulation
 * NFT assets minted and sold
 * Average price of player cards by rarity
-* Total tokens in circulation
-* Price of $ARNA
-* Amount of $ARNA transactions
+* Total $BYTE in circulation
+* Price of $ESPORT
+* Amount of $ESPORT transactions

@@ -2,9 +2,9 @@
 
 ![](../.gitbook/assets/Marketplace.png)
 
-There is no question that when it comes to marketplaces for NFTs, options are limited and typically don't reward community members for their participation. An ecosystem as large as ours deserves its own tools and resources, especially keeping in mind the goal of becoming a decentralized metaverse. The Esports One marketplace will be a gamified system that rewards members for buying/selling and has nominal marketplace fees. A percentage of marketplace fees will go directly to the Community Treasury to fund community initiatives and giveaways.
+There is no question that when it comes to marketplaces for NFTs, options are limited and typically don't reward community members for their participation. An ecosystem as large as ours deserves its own tools and resources, especially considering the goal of becoming a decentralized metaverse. The Esports One marketplace will be a gamified system that rewards members for buying/selling and has nominal marketplace fees. A percentage of marketplace fees will go directly to the Community Treasury to fund community initiatives and giveaways.
 
-Our marketplace is still under development, and tokenomics will be released in the coming months. You will still be able to trade any Esports One NFTs on other marketplaces, but in reality, why trade somewhere that doesn't reward you or have fees that favor you?
+Our marketplace and auction house are being developed, and will be released in the coming months. You will still be able to trade any Esports One NFTs on other marketplaces, but in reality, why trade somewhere that doesn't reward you or have fees that favor you?
 
 ### Technology
 
