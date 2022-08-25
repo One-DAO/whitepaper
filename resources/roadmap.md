@@ -6,9 +6,11 @@ description: Work in progress
 
 ![](../.gitbook/assets/Roadmap.png)
 
+<figure><img src="../.gitbook/assets/Roadmap Overview.png" alt=""><figcaption></figcaption></figure>
+
 ## Supporting New Game Titles <a href="#how-we-onboard-new-titles" id="how-we-onboard-new-titles"></a>
 
-Expanding into new game titles is relatively formulaic and comes down to long-term sustainability. We are currently adding Valorant and Counterstrike, followed by Rocket League as well as are in talks with a number of web3 Esports Game Titles.&#x20;
+Expanding into new game titles is relatively formulaic and comes down to long-term sustainability. We are currently adding Valorant and Counterstrike, followed by Rocket League, and are in talks with several Web3 Esports Game Titles.&#x20;
 
 Following the process of approving a new game title to expand into, we begin the process of data collection.
 
@@ -22,7 +24,7 @@ Our CV models are developed using Python, and then once we meet a specific accur
 
 Because of how we use GraphQL to insulate consumers of data from our DB schema, we take an iterative approach to building the stats interface for a game by continuously expanding it with new stats values as they become available.
 
-![](<../.gitbook/assets/New Stats Onboarding.png>)
+![](<../.gitbook/assets/Game Onboarding.png>)
 
 ### Stats Tiers
 
