@@ -26,4 +26,4 @@ Our backend handles the storing of user data and processes NFT data coming from 
 
 We utilize the Polygon frontend to interact with the blockchain, inspect blocks, execute transactions, and query state.
 
-![](<../.gitbook/assets/Tech Stack (1).png>)
+![](<../.gitbook/assets/Tech Stack Chart.png>)

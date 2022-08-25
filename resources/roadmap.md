@@ -1,7 +1,3 @@
----
-description: Work in progress
----
-
 # Roadmap
 
 ![](../.gitbook/assets/Roadmap.png)
