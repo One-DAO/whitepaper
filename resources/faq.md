@@ -113,14 +113,6 @@ Metapass Standard: Unlimited
 
 <details>
 
-<summary>How do I claim a Metapass?</summary>
-
-Visit [https://meta.esportsone.com/](https://meta.esportsone.com/)
-
-</details>
-
-<details>
-
 <summary>Can I sell my metapass?</summary>
 
 Of course. But once you release your Metapass to someone else, all the benefits and access will transfer with it, including OneDAO and access to the Arena presale.
