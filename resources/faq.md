@@ -247,10 +247,10 @@ Establishing DAOs allows our community in the esports metaverse to decide future
 <summary>What is the difference between the Community &#x26; Arena DAO?</summary>
 
 **Arena DAO**\
-Available only to staked arena owners. This allows holders of Arenas to govern themselves under the Community DAO and shape the future of all arenas.
+Available only to Metarena owners and users that have staked $ARNA. This allows holders of Arenas to govern themselves under the Community DAO and shape the future of all arenas.
 
 **Community DAO** \
-****Allows users who own and have staked $ESPORT to submit proposals and participate in the governance of the token and community. The Community DAO will be able to direct funds from the Community treasury as they see fit.
+****Allows users who own a Metapass to submit proposals and participate in the governance of the token and community. The Community DAO will be able to direct funds from the Community treasury as they see fit.
 
 </details>
 
