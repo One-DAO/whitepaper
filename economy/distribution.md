@@ -1,6 +1,6 @@
 # Distribution
 
-![](<../.gitbook/assets/Token Allocation v2.png>)
+![](<../.gitbook/assets/Token OnePager.png>)
 
 ## Allocations
 
