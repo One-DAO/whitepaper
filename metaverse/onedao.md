@@ -34,15 +34,15 @@ Members that power each guild – specialized token holders that join based on s
 
 ## Guilds
 
-![](../.gitbook/assets/Guilds.png)
+![](../.gitbook/assets/GuildsOverview.png)
 
 Guilds are workgroups that organize specialist skill sets into a single location. Guilds are the foundation of OneDAO and are made up of individual collectives. Creating a guild gives DAO members a way to group together and offers the community direct access to a source of skilled labor. Anyone that holds a metapass can participate in a guild.
 
-### Ambassadors
+### Marketing
 
 **Primary Goal:** Increasing the number of token holders
 
-The ambassadors guild plays a significant role in the development and growth of the ecosystem. This includes referring new users, creating social media and marketing content, advocating at conferences and events, and creating educational content that better serves new and existing users of web3.
+The Marketing guild plays a significant role in the development and growth of the ecosystem. This includes referring new users, creating social media and marketing content, advocating at conferences and events, and creating educational content that better serves new and existing users of web3.
 
 | Program          | Details                                                                                                                                       |
 | ---------------- | --------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -52,32 +52,32 @@ The ambassadors guild plays a significant role in the development and growth of 
 | **Research**     | Understand what the future of web3 looks like through engaging with other projects, talking to the community, attending conferences and more. |
 | **Social Media** | Maintain our social media presence across all major platforms and define our voice accordingly.                                               |
 
-### Builders
+### Development
 
 **Goal:** Empowering esports fans and fantasy managers with tools for navigating the esports metaverse
 
-| Program         | Details                                                      |
-| --------------- | ------------------------------------------------------------ |
-| **Analytics**   | Provide a clear understanding of ecosystem performance.      |
-| **Data**        | Data science                                                 |
-| **Development** | Open-source development & bounties                           |
-| **Engineering** | Full-stack engineering, system architecture and design.      |
-| **Product**     | Product management. Documentation and and project oversight. |
+| Program         | Details                                                                                             |
+| --------------- | --------------------------------------------------------------------------------------------------- |
+| **Analytics**   | Provide a clear understanding of ecosystem performance.                                             |
+| **Data**        | Data science and creating analytical insights to better understand community and asset performance. |
+| **Development** | Open-source development & bounties                                                                  |
+| **Engineering** | Full-stack engineering, system architecture and design.                                             |
+| **Product**     | Product management. Documentation and project oversight.                                            |
 
-### Creators
+### Design
 
-| Program        | Details                                                                                                                        |
-| -------------- | ------------------------------------------------------------------------------------------------------------------------------ |
-| **Art**        | Creating the masterpieces that live inside the metaverse and out.                                                              |
-| **Audio**      | Podcast, music and recordings                                                                                                  |
-| **Design**     | UI/UX                                                                                                                          |
-| **Newsletter** | Recurring newsletters that's shared via email and the blog and provides an internal and external summary of OneDAO activities. |
-| **Video**      | 3D, motion effects, promo content.                                                                                             |
-| **Writing**    | Creating written content for the blog and other guild initiatives.                                                             |
+| Program        | Details                                                                                                                         |
+| -------------- | ------------------------------------------------------------------------------------------------------------------------------- |
+| **Art**        | Creating the masterpieces that live inside the metaverse and out.                                                               |
+| **Audio**      | Podcast, music and recordings                                                                                                   |
+| **Design**     | Across UI/UX as well as the cosmetics available in the Forge                                                                    |
+| **Newsletter** | Recurring newsletters that are shared via email and the blog and provide an internal and external summary of OneDAO activities. |
+| **Video**      | 3D, motion effects, promo content.                                                                                              |
+| **Writing**    | Creating written content for the blog and other guild initiatives.                                                              |
 
-### Operators
+### Community
 
-**Goal:** Watch over daily activities of the DAO, so everyone is aligned with the general mission and vision. Facilitate core operations, people, budgets and targets, project delivery and strategy. Facilitate and support all other aspects of the DAO to function smoothly and rapidly
+**Goal:** Watch over daily activities of the DAO, so everyone is aligned with the general mission and vision. Facilitate core community operations, people, budgets and targets, project delivery and strategy. Facilitate and support all other aspects of the DAO to function smoothly and rapidly
 
 | Program        | Details                                                               |
 | -------------- | --------------------------------------------------------------------- |
@@ -90,11 +90,11 @@ The ambassadors guild plays a significant role in the development and growth of 
 
 #### **Tips**
 
-These come from other OneDAO contributors for valuable or desirable contributions in the moment. (For work done, well-spoken comments, answering member questions, or whatever the tipper values) - Tips are sent to a Collab.Land wallet connected to your username and can either be used for tipping others or can be withdrawn to a personal wallet.
+These come from other OneDAO contributors for valuable or desirable contributions in the moment. (For work done, well-spoken comments, answering member questions, or whatever the tipper values) - Tips are sent to the wallet connected to your username in Dework.
 
 #### Bounties
 
-Bounties can be posted by Arena owners and Team Leads and will be posted in the #bounty-board channel. Bounties can come in the form of one-time or recurring job requests. Some bounties can only be claimed if you have the correct role tag. After claiming, it’s your responsibility to coordinate with the bounty poster. Payment is made upon delivery of requested action or material and can come in the form of a tip (Collab.Land), or through a guild or project during their scheduled pay round (direct to ETH wallet).
+Bounties can be posted by Arena owners and Team Leads and will be posted in the #bounty-board channel. Bounties can come in the form of one-time or recurring job requests. Some bounties can only be claimed if you have the correct role tag. After claiming, it’s your responsibility to coordinate with the bounty poster. Payment is made upon delivery of requested action or material and can come in the form of a tip (Collabland/tip.cc), or through a guild or project during their scheduled pay round (direct to ETH wallet).
 
 #### **Compensation**
 
