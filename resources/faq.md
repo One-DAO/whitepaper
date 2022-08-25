@@ -125,7 +125,7 @@ Of course. But once you release your Metapass to someone else, all the benefits 
 
 <summary>What are Arenas?</summary>
 
-Arenas are the foundation for building a thriving community within the metaverse. Each arena is an ERC-1155 plot of digital real-estate that hosts gaming and esports-centric contests and events. Once an owner stakes an arena, they begin to receive regular allocations of tokens to incentivize active participation in their arena.
+Arenas are the foundation for building a thriving community within the metaverse. Each arena is an ERC-721 plot of digital real-estate that hosts gaming and esports-centric contests and events. Once an owner stakes an arena, they begin to receive regular allocations of tokens to incentivize active participation in their arena.
 
 </details>
 
