@@ -17,7 +17,7 @@
   * [Skill-Based](metaverse/experiences/skill-based.md)
   * [Online Events](metaverse/experiences/virtual-events.md)
 * [OneDAO](metaverse/onedao.md)
-* [Avatars](metaverse/avatars.md)
+* [Metavatar](metaverse/metavatar.md)
 
 ## 💰 Economy
 
@@ -40,7 +40,6 @@
 
 * [Our Team](about-us/our-team.md)
 * [Our Ecosystem](about-us/our-ecosystem.md)
-* [Terms of Use](about-us/terms-of-use.md)
 
 ## ℹ Other Languages
 

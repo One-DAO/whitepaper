@@ -1,5 +1,7 @@
 # Our Ecosystem
 
+<figure><img src="../.gitbook/assets/Ecosystem.png" alt=""><figcaption></figcaption></figure>
+
 Esports One stays with the user every step of their esports journey from fantasy to research. We reach them where they are at, whether they are looking for the next tournament to watch on Esportscalendar or going on a deep dive for the richest information about their favorite teams and players on Esportspedia. On top of this, our active community and expert analysts are always discussing various esports and competing in match predictions through our Discord Bot, OneBot, that we developed to drive conversation and elevate fans' viewing experiences.
 
 ## Discord OneBot
