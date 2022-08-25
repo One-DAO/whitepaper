@@ -119,7 +119,7 @@ Of course. But once you release your Metapass to someone else, all the benefits 
 
 </details>
 
-### Digital Arenas
+### Metarenas
 
 <details>
 
